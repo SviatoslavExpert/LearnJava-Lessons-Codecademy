@@ -6,7 +6,6 @@
  * 3. Set the int variable awesomeLevel equal to 121.
  * 4. Set the int variable epicLevel equal to awesomeLevel multiplied by 2.
  * 5. Uncomment the last line so that the console prints out the value of epicLevel.
-
  */
 
 package com.gmail.granovskiy.s;
