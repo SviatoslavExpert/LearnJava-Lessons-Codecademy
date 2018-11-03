@@ -8,6 +8,8 @@
 
 package com.gmai.granovskiy.s;
 
+import com.gmail.granovskiy.s.Dog;
+
 public class Dog {
 
 	int age;
@@ -21,6 +23,7 @@ public class Dog {
 	}
 
 	public static void main(String[] args) {
+		Dog spike = new Dog(5);
 
 	}
 
