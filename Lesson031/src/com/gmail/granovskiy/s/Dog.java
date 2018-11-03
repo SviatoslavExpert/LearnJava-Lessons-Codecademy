@@ -1,3 +1,10 @@
+/*
+ * OBJECT-ORIENTED JAVA 
+ * Using Methods: I
+ * Inside of the main method of the Dog class, 
+ * call the bark method on the spike object.
+ */
+
 package com.gmail.granovskiy.s;
 
 public class Dog {
