@@ -8,8 +8,6 @@
 
 package com.gmai.granovskiy.s;
 
-import com.gmail.granovskiy.s.Dog;
-
 public class Dog {
 
 	int age;
